@@ -1,0 +1,6 @@
+{
+  "name": "ABWA Campus Management System",
+  "description": "Multi-campus academic core and student attendance management system for ABWA Knowledge Village and ABWA Medical College.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
